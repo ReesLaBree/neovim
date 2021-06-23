@@ -14,6 +14,8 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'machakann/vim-sandwich'
 call plug#end()
 
+set tabstop=2
+set shiftwidth=2
 set number
 set background=dark
 colorscheme gruvbox
