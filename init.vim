@@ -15,6 +15,7 @@ Plug 'tpope/vim-surround'
 Plug 'jiangmiao/auto-pairs'
 Plug 'machakann/vim-sandwich'
 Plug 'alvan/vim-closetag'
+Plug 'tomlion/vim-solidity'
 let g:coc_global_extensions = ['coc-tslint-plugin', 'coc-tsserver', 'coc-emmet', 'coc-css', 'coc-html', 'coc-json', 'coc-yank', 'coc-prettier']
 Plug 'ianks/vim-tsx'
 Plug 'leafgarland/typescript-vim'
